@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/91798/OneDrive/Desktop/Project_Management/client/src/app/%28components%29/Header/index.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\ntype Props = {\r\n  name: string;\r\n  buttonComponent?: any;\r\n  isSmallText?: boolean;\r\n};\r\n\r\nconst Header = ({ name, buttonComponent, isSmallText = false }: Props) => {\r\n  return (\r\n    <div className=\"mb-5 flex w-full items-center justify-between\">\r\n      <h1\r\n        className={`${isSmallText ? \"text-lg\" : \"text-2xl\"} font-semibold dark:text-white`}\r\n      >\r\n        {name}\r\n      </h1>\r\n      {buttonComponent}\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Header;"],"names":[],"mappings":";;;;;AAQA,MAAM,SAAS,CAAC,EAAE,IAAI,EAAE,eAAe,EAAE,cAAc,KAAK,EAAS;IACnE,qBACE,6LAAC;QAAI,WAAU;;0BACb,6LAAC;gBACC,WAAW,GAAG,cAAc,YAAY,WAAW,8BAA8B,CAAC;0BAEjF;;;;;;YAEF;;;;;;;AAGP;KAXM;uCAaS","debugId":null}}]
+}
