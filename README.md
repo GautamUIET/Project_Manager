@@ -5,7 +5,8 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ---
 
 
-                                                          ![Project Screenshot](./project.png)
+                                      <img src="project.png" alt="Project Screenshot" width="600"/>
+
  
                             
 
