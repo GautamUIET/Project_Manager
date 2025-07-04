@@ -54,4 +54,6 @@ A fully-featured **project management platform** built using **Next.js, React, P
 - Move tasks between different status columns (To Do, In Progress, Done)
 - Reorder tasks within columns to adjust priority
 
----
+---                    
+            ![Project Logo](https://raw.githubusercontent.com/GautamUIET/Project_Manager/main/project_images.png)
+
