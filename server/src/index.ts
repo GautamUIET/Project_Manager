@@ -20,7 +20,7 @@ app.use(morgan("common"));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-app.get('/', (req, res) => {
+app.get('/', (req:any, res:any) => {
   res.send('Welcome to the Project Management API');
 });
 
@@ -32,6 +32,6 @@ app.use("/teams", teamRoutes);
 app.use("/users", userRoutes);
 
 const port = Number(process.env.PORT) || 3000;
-app.listen(port, "0.0.0.0", () => {
+app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
