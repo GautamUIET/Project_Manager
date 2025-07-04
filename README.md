@@ -5,8 +5,7 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ---
 
 
-                              ![Project Screenshot](https://github.com/GautamUIET/Project_Manager/blob/main/project.png?raw=true)
-
+                                ![Project Logo](./project.png)
 
  
                             
