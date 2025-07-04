@@ -204,7 +204,9 @@ const TaskCard = ({ task })=>{
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: `inline-flex items-center rounded-full px-3 py-1 text-xs font-medium ${statusColors[task.status] || "bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200"}`,
+                                        className: `inline-flex items-center rounded-full px-3 py-1 text-xs font-medium  
+                "bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200"
+              }`,
                                         children: task.status
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
@@ -224,21 +226,24 @@ const TaskCard = ({ task })=>{
                                         children: "Priority"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 147,
+                                        lineNumber: 146,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: `inline-flex items-center rounded-full px-3 py-1 text-xs font-medium ${priorityColors[task.priority] || "bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200"}`,
+                                        className: `inline-flex items-center rounded-full px-3 py-1 text-xs font-medium
+                
+                "bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200"
+              }`,
                                         children: task.priority
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 150,
+                                        lineNumber: 149,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 146,
+                                lineNumber: 145,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -248,7 +253,7 @@ const TaskCard = ({ task })=>{
                                         children: "Start Date"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 162,
+                                        lineNumber: 161,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -256,13 +261,13 @@ const TaskCard = ({ task })=>{
                                         children: task.startDate ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$date$2d$fns$2f$format$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["format"])(new Date(task.startDate), "MMM d, yyyy") : "Not set"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 165,
+                                        lineNumber: 164,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 161,
+                                lineNumber: 160,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -272,7 +277,7 @@ const TaskCard = ({ task })=>{
                                         children: "Due Date"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 173,
+                                        lineNumber: 172,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -280,13 +285,13 @@ const TaskCard = ({ task })=>{
                                         children: task.dueDate ? (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$date$2d$fns$2f$format$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$locals$3e$__["format"])(new Date(task.dueDate), "MMM d, yyyy") : "Not set"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 176,
+                                        lineNumber: 175,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 172,
+                                lineNumber: 171,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -296,7 +301,7 @@ const TaskCard = ({ task })=>{
                                         children: "Author"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 185,
+                                        lineNumber: 184,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -304,13 +309,13 @@ const TaskCard = ({ task })=>{
                                         children: task.author ? task.author.username : "Unknown"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 188,
+                                        lineNumber: 187,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 184,
+                                lineNumber: 183,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -320,7 +325,7 @@ const TaskCard = ({ task })=>{
                                         children: "Assignee"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 194,
+                                        lineNumber: 193,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -328,13 +333,13 @@ const TaskCard = ({ task })=>{
                                         children: task.assignee ? task.assignee.username : "Unassigned"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 197,
+                                        lineNumber: 196,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 193,
+                                lineNumber: 192,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -351,7 +356,7 @@ const TaskCard = ({ task })=>{
                                 children: "Tags"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 206,
+                                lineNumber: 205,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -361,18 +366,18 @@ const TaskCard = ({ task })=>{
                                         children: tag.trim()
                                     }, index, false, {
                                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                        lineNumber: 211,
+                                        lineNumber: 210,
                                         columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                                lineNumber: 209,
+                                lineNumber: 208,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/(components)/TaskCard/index.tsx",
-                        lineNumber: 205,
+                        lineNumber: 204,
                         columnNumber: 11
                     }, this)
                 ]

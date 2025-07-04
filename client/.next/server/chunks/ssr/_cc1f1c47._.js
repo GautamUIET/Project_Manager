@@ -94,7 +94,7 @@ var Status = /*#__PURE__*/ function(Status) {
 }({});
 const api = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$reduxjs$2f$toolkit$2f$dist$2f$query$2f$react$2f$rtk$2d$query$2d$react$2e$modern$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["createApi"])({
     baseQuery: (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$reduxjs$2f$toolkit$2f$dist$2f$query$2f$rtk$2d$query$2e$modern$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["fetchBaseQuery"])({
-        baseUrl: ("TURBOPACK compile-time value", "https://project-manager-1-nsna.onrender.com")
+        baseUrl: ("TURBOPACK compile-time value", "http://localhost:8000")
     }),
     reducerPath: "api",
     tagTypes: [
