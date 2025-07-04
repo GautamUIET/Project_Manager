@@ -1,11 +1,11 @@
-**# 🚀 Project Management Web App
-
+# 🚀 Project Management Web App
 A fully-featured **project management platform** built using **Next.js, React, Prisma, and PostgreSQL**, designed to help teams create, organize, and track projects and tasks with ease. This app supports **task assignment, team collaboration**, and **Gantt chart visualization** to ensure streamlined workflows and project clarity.
+
+![Project Logo](https://raw.githubusercontent.com/GautamUIET/Project_Manager/main/final.jpg)
 
 ---
 
 ## 🔧 Tech Stack
-
 - **Frontend:** React, Next.js
 - **Backend:** Next.js API Routes, Prisma ORM
 - **Database:** PostgreSQL
@@ -16,7 +16,6 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ---
 
 ## ✨ Features
-
 ### ✅ Project Management
 - Create new projects with **titles, descriptions, and deadlines**
 - Set **priority levels** for each project: High, Medium, Low
@@ -39,5 +38,3 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ### 🧠 Priority Sorting
 - Projects are automatically sorted by priority
 - Quickly view which projects require immediate attention
-
-                           ![Project Logo](https://raw.githubusercontent.com/GautamUIET/Project_Manager/main/final.jpg)
