@@ -55,5 +55,5 @@ A fully-featured **project management platform** built using **Next.js, React, P
 - Reorder tasks within columns to adjust priority
 
 ---                    
-            ![Project Logo](https://raw.githubusercontent.com/GautamUIET/Project_Manager/main/project_images.png)
+            ![Project Logo](https://raw.githubusercontent.com/GautamUIET/Project_Manager/main/images_project.png)
 
