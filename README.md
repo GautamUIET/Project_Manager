@@ -3,9 +3,30 @@
 A fully-featured **project management platform** built using **Next.js, React, Prisma, and PostgreSQL**, designed to help teams create, organize, and track projects and tasks with ease. This app supports **task assignment, team collaboration**, and **Gantt chart visualization** to ensure streamlined workflows and project clarity.
 
 ---
+                                    ![Project Logo](./final.jpg)
+                                    
 
 
-                                ![Project Logo](https://github.com/GautamUIET/Project_Manager/blob/6890f37b4f10ecd4a9d3483a3ee5f011b4cf5902/final.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              
 
  
                             
