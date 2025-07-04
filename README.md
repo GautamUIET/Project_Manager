@@ -38,4 +38,4 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ### 🧠 Priority Sorting
 - Projects are automatically sorted by priority
 - Quickly view which projects require immediate attention
-                                <video src="task pilot.mp4" controls width="600"></video>
+                               ![Demo](./task pilot.mp4)
