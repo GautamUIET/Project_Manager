@@ -5,7 +5,7 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ---
 
 
-                                   ![image](https://github.com/user-attachments/assets/aa67f737-021b-4e8c-8415-ae8a409abbd0)
+                                   ![image](./public/project.png)
 
 
 ## 🔧 Tech Stack
