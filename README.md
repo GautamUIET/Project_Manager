@@ -5,7 +5,7 @@ A fully-featured **project management platform** built using **Next.js, React, P
 ---
 
 
-                                                          ![Project Screenshot](project.png)
+                                                          ![Project Screenshot](./project.png)
  
                             
 
