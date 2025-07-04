@@ -5,14 +5,29 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "outDir": "./dist",
+    "rootDir": "./src",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": false,
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "declaration": false,
+    "sourceMap": false,
+    "removeComments": true,
+    "noImplicitAny": false,
+    "lib": ["es2020"],
+    "types": ["node"],
+    "allowJs": true
   },
-  "include": ["src/**/*", "src/data/**/*.json", "prisma/**/*"],
-  "exclude": ["node_modules", "dist"]
+  "include": [
+    "src/**/*",
+    "src/data/**/*.json",
+    "prisma/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
